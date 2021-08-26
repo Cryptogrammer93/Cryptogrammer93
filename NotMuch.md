@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cryptogrammer93
 - 👀 I’m interested in being a well known programmer base on knowledge and accomplishments 
-- 🌱 I’m currently learning web development frontend and backend
-- 💞️ I’m looking to collaborate on anything that I can as it´s never an issue for me to do so
+- 🌱 I’m currently learning web development front adn back-end, later on will focus on languages like python
+- 💞️ I’m looking to collaborate on anything that I can as it´s never an issue for me to do so; However, I´m new in this area!
 - 📫 You can reach me @CryptoLeiva
 
 <!---
